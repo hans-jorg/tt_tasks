@@ -1,0 +1,11 @@
+
+/**
+@mainpage  Cooperative Time-Triggered Multitasking Kernel
+
+@brief     implements a cooperative multitasking kernel following
+           Pont, Patterns for time-triggered embedded systems. 2014.
+           Specially, Chapter 14.
+
+@see https://www.safetty.net/products/publications/pttes
+
+*/
